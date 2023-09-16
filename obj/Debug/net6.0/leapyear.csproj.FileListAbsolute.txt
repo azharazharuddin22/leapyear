@@ -1,0 +1,14 @@
+D:\c#\leapyear\bin\Debug\net6.0\leapyear.exe
+D:\c#\leapyear\bin\Debug\net6.0\leapyear.deps.json
+D:\c#\leapyear\bin\Debug\net6.0\leapyear.runtimeconfig.json
+D:\c#\leapyear\bin\Debug\net6.0\leapyear.dll
+D:\c#\leapyear\bin\Debug\net6.0\leapyear.pdb
+D:\c#\leapyear\obj\Debug\net6.0\leapyear.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\leapyear\obj\Debug\net6.0\leapyear.AssemblyInfoInputs.cache
+D:\c#\leapyear\obj\Debug\net6.0\leapyear.AssemblyInfo.cs
+D:\c#\leapyear\obj\Debug\net6.0\leapyear.csproj.CoreCompileInputs.cache
+D:\c#\leapyear\obj\Debug\net6.0\leapyear.dll
+D:\c#\leapyear\obj\Debug\net6.0\refint\leapyear.dll
+D:\c#\leapyear\obj\Debug\net6.0\leapyear.pdb
+D:\c#\leapyear\obj\Debug\net6.0\leapyear.genruntimeconfig.cache
+D:\c#\leapyear\obj\Debug\net6.0\ref\leapyear.dll
